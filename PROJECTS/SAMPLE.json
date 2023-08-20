@@ -1,0 +1,1 @@
+{"name": "SAMPLE", "desc": "Sample project. Simple 'nuff.", "tasks": ["{\"TaskName\": \"A task\", \"TaskDesc\": \"Do something, I guess\", \"TaskStatus\": false, \"TaskNUMID\": 0}", "{\"TaskName\": \"Done!\", \"TaskDesc\": \"Hooray!\", \"TaskStatus\": true, \"TaskNUMID\": 1}"]}
